@@ -1,0 +1,15 @@
+public class Chapter2HMK {
+  public static void main(String[] args){
+   
+    String M = "in";
+    Sting N = "out";
+    System.out.println= (m + n);
+    String P = M;
+    M = N;
+    M = P;
+    System.out.println(M + N);
+    
+    
+  }
+  
+}

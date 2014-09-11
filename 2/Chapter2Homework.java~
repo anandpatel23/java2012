@@ -1,0 +1,9 @@
+public class Chapter2Homework{
+  public static void main(String[] args){
+  
+  double q = (25 + 13 % 4) - Math.sqrt(81.0) / 2;
+  
+  System.out.print(q);
+    
+  }
+ }

@@ -1,0 +1,14 @@
+public class AnandPatelChapterProject3{
+  public static void main(String[] args){
+ EasyReader e = new EasyReader();
+ 
+ System.out.println("What's your principle?");
+ double p = e.readDouble();
+    
+ System.out.println("What's your interest rate?");
+ double r = e.readDouble();
+ 
+ System.out.println("What's your 
+    
+  }
+}
