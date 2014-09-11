@@ -1,0 +1,1 @@
+These are projects and work created in java when I was in high school. Please excuse the crappy etiquette
